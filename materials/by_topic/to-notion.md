@@ -1,6 +1,6 @@
 # to-notion：专题材料包
 
-生成时间：2026-06-26T17:46:08
+生成时间：2026-06-26T17:53:19
 
 筛选条件：主题 = to-notion
 
@@ -8,9 +8,9 @@
 
 | 序号 | 中文题名 | 年份 | 来源 | 主题 | 用途 | 对应章节 | 优先级 |
 |---:|---|---|---|---|---|---|---|
-| 1 | The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model | 2013 |  | to-notion |  |  |  |
-| 2 | Allocative efficiency in public research funding: Can bibliometrics help? | 2009 |  | to-notion |  |  |  |
-| 3 | Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences | 2006 |  | to-notion |  |  |  |
+| 1 | The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model | 2013 |  | to-notion, Method, Theory, Survey |  |  |  |
+| 2 | Allocative efficiency in public research funding: Can bibliometrics help? | 2009 |  | to-notion, Method, Experiment |  |  |  |
+| 3 | Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences | 2006 |  | to-notion, Survey |  |  |  |
 | 4 | The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge | 2000 |  | to-notion |  |  |  |
 | 5 | Measuring Brand Equity Across Products and Markets | 1996 |  | to-notion |  |  |  |
 | 6 | Leveraging the Corporate Brand |  |  | to-notion |  |  |  |
@@ -31,7 +31,7 @@
 
 **DOI**：10.1080/09585192.2012.679950
 
-**主题**：to-notion
+**主题**：to-notion, Method, Theory, Survey
 
 **关键词**：
 
@@ -61,7 +61,7 @@ This study contributes to our understanding of the mediating and moderating proc
 
 **DOI**：10.1016/j.respol.2008.11.001
 
-**主题**：to-notion
+**主题**：to-notion, Method, Experiment
 
 **关键词**：
 
@@ -91,7 +91,7 @@ The use of outcome control modes of research evaluation exercises is ever more f
 
 **DOI**：10.1016/j.ijresmar.2006.01.010
 
-**主题**：to-notion
+**主题**：to-notion, Survey
 
 **关键词**：
 
