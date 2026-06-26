@@ -1,6 +1,6 @@
 # 全部文献材料包
 
-生成时间：2026-06-26T17:58:42
+生成时间：2026-06-26T18:11:56
 
 本材料包由 Notion 文献数据库自动整理生成，并已按论文大纲、优先级和年份排序。
 
@@ -8,11 +8,11 @@
 
 | 序号 | 中文题名 | 年份 | 来源 | 主题 | 用途 | 对应章节 | 优先级 |
 |---:|---|---|---|---|---|---|---|
-| 1 | The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model | 2013 |  | to-notion, Method, Theory, Survey |  |  |  |
-| 2 | Allocative efficiency in public research funding: Can bibliometrics help? | 2009 |  | to-notion, Method, Experiment |  |  |  |
-| 3 | Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences | 2006 |  | to-notion, Survey |  |  |  |
-| 4 | The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge | 2000 |  | to-notion |  |  |  |
-| 5 | Measuring Brand Equity Across Products and Markets | 1996 |  | to-notion |  |  |  |
+| 1 | The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model | 2013 | The International Journal of Human Resource Management | to-notion |  |  |  |
+| 2 | Allocative efficiency in public research funding: Can bibliometrics help? | 2009 | Research Policy | to-notion |  |  |  |
+| 3 | Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences | 2006 | International Journal of Research in Marketing | to-notion |  |  |  |
+| 4 | The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge | 2000 | California Management Review | to-notion |  |  |  |
+| 5 | Measuring Brand Equity Across Products and Markets | 1996 | California Management Review | to-notion |  |  |  |
 | 6 | Leveraging the Corporate Brand |  |  | to-notion |  |  |  |
 
 ---
@@ -27,11 +27,11 @@
 
 **年份**：2013
 
-**来源**：
+**来源**：The International Journal of Human Resource Management
 
 **DOI**：10.1080/09585192.2012.679950
 
-**主题**：to-notion, Method, Theory, Survey
+**主题**：to-notion
 
 **关键词**：
 
@@ -45,7 +45,7 @@
 
 This study contributes to our understanding of the mediating and moderating processes through which human resource management practices are linked with behavioural outcomes. We developed and tested a moderated mediation model linking perceived human resource management practices to organisational citizenship behaviour and turnover intentions. Drawing on social exchange theory, our model posits that the effect of perceived human resource management practices on both outcome variables is mediated by levels of employee engagement, while the relationship between employee engagement and both outcome variables is moderated by perceived organisational support and leader-member exchange. Overall, data from 297 employees in a service sector organisation in the UK support this model. This suggests that the enactment of positive behavioural outcomes, as a consequence of engagement, largely depends on the wider organisational climate and employees’ relationship with their line manager. Implications for practice and directions for future research are discussed.
 
-**Notion 链接**：https://app.notion.com/p/The-link-between-perceived-human-resource-management-practices-engagement-and-employee-behaviour-a-38be8c8a654d8156b64feb22e71f3dc6
+**Notion 链接**：https://app.notion.com/p/The-link-between-perceived-human-resource-management-practices-engagement-and-employee-behaviour-a-38be8c8a654d815c8b72cca5fd0666fb
 
 ---
 
@@ -57,11 +57,11 @@ This study contributes to our understanding of the mediating and moderating proc
 
 **年份**：2009
 
-**来源**：
+**来源**：Research Policy
 
 **DOI**：10.1016/j.respol.2008.11.001
 
-**主题**：to-notion, Method, Experiment
+**主题**：to-notion
 
 **关键词**：
 
@@ -75,7 +75,7 @@ This study contributes to our understanding of the mediating and moderating proc
 
 The use of outcome control modes of research evaluation exercises is ever more frequent. They are conceived as tools to stimulate increased levels of research productivity, and to guide choices in allocating components of government research budgets for publicly funded institutions. There are several contributions in the literature that compare the different methodological approaches that policy makers could adopt for these exercises, however the comparisons are limited to only a few disciplines. This work, examining the case of the whole of the “hard sciences” of the Italian academic system, makes a comparison between results obtained from peer review type of evaluations (as adopted by the Ministry of Universities and Research) and those possible from a bibliometric approach (as developed by the authors). The aim is to understand to what extent bibliometric methodology, which is noted as relatively inexpensive, time-saving and exhaustive, can complement and integrate peer review methodology in research evaluation.
 
-**Notion 链接**：https://app.notion.com/p/Allocative-efficiency-in-public-research-funding-Can-bibliometrics-help-38be8c8a654d81818002f18f597e778a
+**Notion 链接**：https://app.notion.com/p/Allocative-efficiency-in-public-research-funding-Can-bibliometrics-help-38be8c8a654d81ee87ecf054b8ee4a43
 
 ---
 
@@ -87,11 +87,11 @@ The use of outcome control modes of research evaluation exercises is ever more f
 
 **年份**：2006
 
-**来源**：
+**来源**：International Journal of Research in Marketing
 
 **DOI**：10.1016/j.ijresmar.2006.01.010
 
-**主题**：to-notion, Survey
+**主题**：to-notion
 
 **关键词**：
 
@@ -105,7 +105,7 @@ The use of outcome control modes of research evaluation exercises is ever more f
 
 This study examines relationships between a new measure of consumer attitudes toward consumption alternatives resulting from market globalization, several attitudinal antecedents (materialism, susceptibility to normative influence and consumer ethnocentrism), and a hypothesized consequence of these attitudes — preference for global brands. Following validation of the new measure in three culturally distinct markets, South Korea, the US, and China, the hypothesized antecedents and consequence are tested in South Korea. Empirical findings broadly support hypotheses and provide important implications for future research on market globalization.
 
-**Notion 链接**：https://app.notion.com/p/Consumer-attitudes-toward-marketplace-globalization-Structure-antecedents-and-consequences-38be8c8a654d8127b61bfa21295ef56e
+**Notion 链接**：https://app.notion.com/p/Consumer-attitudes-toward-marketplace-globalization-Structure-antecedents-and-consequences-38be8c8a654d8181b104dba51bded1a6
 
 ---
 
@@ -117,7 +117,7 @@ This study examines relationships between a new measure of consumer attitudes to
 
 **年份**：2000
 
-**来源**：
+**来源**：California Management Review
 
 **DOI**：10.1177/000812560004200401
 
@@ -131,7 +131,7 @@ This study examines relationships between a new measure of consumer attitudes to
 
 **优先级**：
 
-**Notion 链接**：https://app.notion.com/p/The-Brand-Relationship-Spectrum-The-Key-to-the-Brand-Architecture-Challenge-38be8c8a654d81f69706d64fa491b0b7
+**Notion 链接**：https://app.notion.com/p/The-Brand-Relationship-Spectrum-The-Key-to-the-Brand-Architecture-Challenge-38be8c8a654d81bc87b3c0d49f35522c
 
 ---
 
@@ -143,7 +143,7 @@ This study examines relationships between a new measure of consumer attitudes to
 
 **年份**：1996
 
-**来源**：
+**来源**：California Management Review
 
 **DOI**：10.2307/41165845
 
@@ -157,7 +157,7 @@ This study examines relationships between a new measure of consumer attitudes to
 
 **优先级**：
 
-**Notion 链接**：https://app.notion.com/p/Measuring-Brand-Equity-Across-Products-and-Markets-38be8c8a654d81f0b640c6749576402a
+**Notion 链接**：https://app.notion.com/p/Measuring-Brand-Equity-Across-Products-and-Markets-38be8c8a654d81a2b11cf39eb2afaab8
 
 ---
 
@@ -183,6 +183,6 @@ This study examines relationships between a new measure of consumer attitudes to
 
 **优先级**：
 
-**Notion 链接**：https://app.notion.com/p/Leveraging-the-Corporate-Brand-38be8c8a654d81b586f5ff72a1a20d98
+**Notion 链接**：https://app.notion.com/p/Leveraging-the-Corporate-Brand-38be8c8a654d815fbed4f3c2c82d9e0b
 
 ---
