@@ -1,6 +1,6 @@
 # to-notion：专题材料包
 
-生成时间：2026-06-26T18:41:49
+生成时间：2026-06-26T18:50:59
 
 筛选条件：主题 = to-notion
 
@@ -286,6 +286,8 @@ This study examines relationships between a new measure of consumer attitudes to
 ## 4. Notion 正文笔记
 
 你好再见
+
+as i was a child ,i would like to become a superstar.therefore, i only get a doll from my parents.
 
 ## 5. Notion 评论
 

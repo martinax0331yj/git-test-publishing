@@ -1,6 +1,6 @@
 # 全部文献材料包
 
-生成时间：2026-06-26T18:41:49
+生成时间：2026-06-26T18:50:59
 
 本材料包由 Notion 文献数据库自动整理生成，并已按论文大纲、优先级和年份排序。
 
@@ -286,6 +286,8 @@ This study examines relationships between a new measure of consumer attitudes to
 ## 4. Notion 正文笔记
 
 你好再见
+
+as i was a child ,i would like to become a superstar.therefore, i only get a doll from my parents.
 
 ## 5. Notion 评论
 
