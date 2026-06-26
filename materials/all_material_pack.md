@@ -1,6 +1,6 @@
 # 全部文献材料包
 
-生成时间：2026-06-26T18:33:42
+生成时间：2026-06-26T18:41:49
 
 本材料包由 Notion 文献数据库自动整理生成，并已按论文大纲、优先级和年份排序。
 
@@ -11,9 +11,9 @@
 | 1 | The link between perceived human resource management practices, engagement and employee behaviour: a moderated mediation model | 2013 | The International Journal of Human Resource Management | to-notion |  |  |  |
 | 2 | Allocative efficiency in public research funding: Can bibliometrics help? | 2009 | Research Policy | to-notion |  |  |  |
 | 3 | Consumer attitudes toward marketplace globalization: Structure, antecedents and consequences | 2006 | International Journal of Research in Marketing | to-notion |  |  |  |
-| 4 | The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge | 2000 | California Management Review | to-notion |  |  |  |
-| 5 | Measuring Brand Equity Across Products and Markets | 1996 | California Management Review | to-notion |  |  |  |
-| 6 | Leveraging the Corporate Brand |  |  | to-notion |  |  |  |
+| 4 | The Brand Relationship Spectrum: The Key to the Brand Architecture Challenge | 2000 | California Management Review | to-notion | 概念定义 | 研究方法 |  |
+| 5 | Measuring Brand Equity Across Products and Markets | 1996 | California Management Review | to-notion | 机制解释 | 理论基础 |  |
+| 6 | Leveraging the Corporate Brand |  |  | to-notion | 概念定义 | 文献综述 |  |
 
 ---
 
@@ -173,8 +173,8 @@ This study examines relationships between a new measure of consumer attitudes to
 ## 2. 分类信息
 
 - **主题**：to-notion
-- **用途**：
-- **对应章节**：
+- **用途**：概念定义
+- **对应章节**：研究方法
 - **优先级**：
 
 ## 3. 摘要
@@ -220,8 +220,8 @@ This study examines relationships between a new measure of consumer attitudes to
 ## 2. 分类信息
 
 - **主题**：to-notion
-- **用途**：
-- **对应章节**：
+- **用途**：机制解释
+- **对应章节**：理论基础
 - **优先级**：
 
 ## 3. 摘要
@@ -267,8 +267,8 @@ This study examines relationships between a new measure of consumer attitudes to
 ## 2. 分类信息
 
 - **主题**：to-notion
-- **用途**：
-- **对应章节**：
+- **用途**：概念定义
+- **对应章节**：文献综述
 - **优先级**：
 
 ## 3. 摘要
