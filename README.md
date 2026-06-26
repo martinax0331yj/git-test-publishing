@@ -1,9 +1,17 @@
-# git-test-publishing
+# Notion Literature Logs
 
-这是一个用于 GitHub 发布与提交流程测试的仓库。
+This repository stores logs, exported literature data, topic rules, and material packs for my Notion literature workflow.
 
-## 内容
+## Folders
 
-- 初始化 `README.md`
-- 演示本地提交
-- 演示推送到 GitHub
+- `logs/`: sync logs from Notion and local scripts.
+- `exports/`: exported CSV, Markdown, and material packs.
+- `config/`: topic classification rules.
+
+## Current Workflow
+
+1. Sync literature notes from Notion.
+2. Generate logs.
+3. Export literature overview files.
+4. Save material packs.
+5. Commit updates to GitHub.
