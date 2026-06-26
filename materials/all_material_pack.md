@@ -1,6 +1,6 @@
 # 全部文献材料包
 
-生成时间：2026-06-26T18:11:56
+生成时间：2026-06-26T18:16:23
 
 本材料包由 Notion 文献数据库自动整理生成，并已按论文大纲、优先级和年份排序。
 
@@ -182,6 +182,10 @@ This study examines relationships between a new measure of consumer attitudes to
 **对应章节**：
 
 **优先级**：
+
+### 可支持论点
+
+53535353
 
 **Notion 链接**：https://app.notion.com/p/Leveraging-the-Corporate-Brand-38be8c8a654d815fbed4f3c2c82d9e0b
 
